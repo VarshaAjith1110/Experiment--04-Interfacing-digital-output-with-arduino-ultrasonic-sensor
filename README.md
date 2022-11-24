@@ -90,9 +90,9 @@ void loop(){
 
 
 ### OUTPUT 
+ ![AR1](https://user-images.githubusercontent.com/94222288/203799746-171defb1-44cf-462b-8a7e-410df017a272.png)
 
-		![AR1](https://user-images.githubusercontent.com/94222288/203799111-94b9a8a6-471a-4a7a-bc98-e3b2117679e3.png)
-	
+		
  ![AR2](https://user-images.githubusercontent.com/94222288/203799129-c4e1bd4f-e777-4356-930a-cb28069cb36a.png)
 
 			
